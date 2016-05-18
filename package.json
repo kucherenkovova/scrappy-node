@@ -1,0 +1,24 @@
+{
+  "name": "scrappy-node",
+  "version": "1.0.0",
+  "description": "getting all image links from a webpage",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "standard src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kucherenkovova/scrappy-node.git"
+  },
+  "author": "kucherenkovova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kucherenkovova/scrappy-node/issues"
+  },
+  "homepage": "https://github.com/kucherenkovova/scrappy-node#readme",
+  "dependencies": {
+    "jsdom": "^9.1.0",
+    "lodash": "^4.12.0",
+    "request": "^2.72.0"
+  }
+}
